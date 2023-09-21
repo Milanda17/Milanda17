@@ -12,7 +12,9 @@
   <a href="https://www.linkedin.com/in/milandawijekoon/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="45" alt="linkedin logo"  />
   </a>
+   <a href="https://www.hackerrank.com/milanda_wijekoon/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=flat" height="45" alt="hackerrank logo"  />
+   </a>
   <a href="https://milandawijekoon.medium.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=&labelColor=&style=flat" height="45" alt="medium logo"  />
   </a>
