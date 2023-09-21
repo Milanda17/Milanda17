@@ -2,11 +2,11 @@
 
 ###
 
-<h2 align="center">I am a full stack web application developer from Sri Lanka</h2>
+<h6 align="center">I am a full stack web application developer from Sri Lanka</h6>
 
 ###
 
-<img align="right" height="212" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="212" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  />
 
 ###
 
@@ -49,9 +49,5 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
 </div>
-
-###
-
-<p align="left">Hello World!!</p>
 
 ###
