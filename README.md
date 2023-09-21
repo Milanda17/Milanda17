@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="center">I am a full stack web application developer from Sri Lanka</h6>
+<h4 align="center">I am a full stack web application developer from Sri Lanka</h4>
 
 ###
 
